@@ -45,6 +45,35 @@ I'm a huge Spider-Man fan and love creating futuristic UI experiences.
 
 </p>
 
+## 🚀 Featured Projects
+
+### 🧠 ASAM — AI Smart Attendance System
+Hybrid AI-powered attendance system using Face Recognition + Dynamic QR authentication.
+
+### ♻️ ReGenX — AI Circular Economy Platform
+An AI platform that helps users repair, recycle, or resell products intelligently.
+
+### 🚗 Smart Parking AI
+YOLOv8-powered smart parking detection and monitoring system with real-time analytics.
+
+### 🌐 Personal Portfolio
+Modern portfolio built with React, featuring animations and responsive UI.
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zain-cmd-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-cmd-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=zain-cmd-hub&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 <p align="center">
 Passionate about building AI-powered applications, scalable web solutions, and solving real-world problems through technology.
 </p>
