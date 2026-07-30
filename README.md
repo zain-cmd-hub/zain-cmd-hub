@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abbas Khan</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Abbas</h1>
 
 <h3 align="center">
 AI & Full Stack Developer from India 🇮🇳
