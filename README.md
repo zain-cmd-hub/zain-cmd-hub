@@ -14,24 +14,24 @@
 
 🎓 B.Tech CSE Student passionate about AI, Web Development, and scalable software.
 
-🌱 Currently exploring
+🌱 **Currently Exploring**
 
 - Artificial Intelligence
 - Full Stack Development
 - System Design
 - Cloud Technologies
 
-🚀 Currently Building
+🚀 **Currently Building**
 
 - 🧠 ASAM – AI Smart Attendance System
 - ♻️ ReGenX – AI Circular Economy Platform
 - 🚗 Smart Parking AI
 
-🎯 Goal
+🎯 **Goal**
 
 Become a Software Engineer and build products used by millions.
 
-🕷 Fun Fact
+🕷 **Fun Fact**
 
 Huge Spider-Man fan who loves futuristic UI.
 
@@ -49,7 +49,7 @@ Huge Spider-Man fan who loves futuristic UI.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,fastapi,mongodb,firebase,git,github,vercel,cpp,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,fastapi,mongodb,firebase,git,github,vercel,cpp,vscode&perline=9"/>
 
 </p>
 
@@ -75,17 +75,7 @@ Modern React portfolio with premium animations.
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zain-cmd-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-cmd-hub&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -93,12 +83,6 @@ Modern React portfolio with premium animations.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zain-cmd-hub/zain-cmd-hub/output/github-snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/zain-cmd-hub/zain-cmd-hub/output/github-snake.svg" />
   </picture>
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=zain-cmd-hub&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
