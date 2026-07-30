@@ -84,7 +84,25 @@ Modern React portfolio with premium animations.
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/zain-cmd-hub/zain-cmd-hub/output/github-snake.svg" />
   </picture>
 </p>
+---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zain-cmd-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zain-cmd-hub&theme=tokyo-night&hide_border=true"/>
+
+</p>
 ---
 
 # 📈 Profile Views
