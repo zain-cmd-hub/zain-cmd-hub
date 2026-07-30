@@ -37,6 +37,14 @@ I'm a huge Spider-Man fan and love creating futuristic UI experiences.
 - 💼 LinkedIn: **https://www.linkedin.com/in/mohammad-abbas-0a8960350**
 - 🌐 Portfolio: **https://codedbyiabbas.vercel.app/**
 
+- ## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,fastapi,mongodb,firebase,git,github,vercel,cpp,vscode&perline=9" />
+
+</p>
+
 <p align="center">
 Passionate about building AI-powered applications, scalable web solutions, and solving real-world problems through technology.
 </p>
