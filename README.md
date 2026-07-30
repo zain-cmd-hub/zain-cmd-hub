@@ -5,6 +5,13 @@ AI & Full Stack Developer from India 🇮🇳
 </h3>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Building+Real+World+AI+Projects;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+  
+</p>
+
+<p align="center">
 Passionate about building AI-powered applications, scalable web solutions, and solving real-world problems through technology.
 </p>
 
