@@ -31,6 +31,12 @@ I'm a huge Spider-Man fan and love creating futuristic UI experiences.
   
 </p>
 
+## 📫 Connect With Me
+
+- 📧 Email: **abbaskhan896241@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/mohammad-abbas-0a8960350**
+- 🌐 Portfolio: **https://codedbyiabbas.vercel.app/**
+
 <p align="center">
 Passionate about building AI-powered applications, scalable web solutions, and solving real-world problems through technology.
 </p>
