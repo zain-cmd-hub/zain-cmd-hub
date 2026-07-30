@@ -104,7 +104,17 @@ Modern React portfolio with premium animations.
 
 </p>
 ---
+---
 
+# ⚡ Skills
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,mongodb,firebase,tailwind,express,fastapi,nextjs,git,github,vercel,cpp,vscode"/>
+
+</p>
+
+---
 # 📈 Profile Views
 
 <p align="center">
