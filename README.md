@@ -87,15 +87,6 @@ Modern React portfolio with premium animations.
 </p>
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=zain-cmd-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
