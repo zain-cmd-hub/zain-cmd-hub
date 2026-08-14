@@ -35,7 +35,7 @@ Huge Spider-Man fan who loves futuristic UI.
 
 # 📫 Connect With Me
 
-- 📧 Email: **abbaskhan896241@gmail.com**
+- 📧 Email: **mohammad.abbas0511@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/mohammad-abbas-0a8960350**
 - 🌐 Portfolio: **https://codedbyiabbas.vercel.app/**
 
